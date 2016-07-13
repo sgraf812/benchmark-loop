@@ -1,0 +1,7 @@
+start: 5502e5e7cd5225548bb55f213226d49f5853a669
+benchmarkScript: cloben
+benchmarks:
+- match: "benchmarks/*"
+  group: Benchmarks
+  unit: ns
+  type: float
